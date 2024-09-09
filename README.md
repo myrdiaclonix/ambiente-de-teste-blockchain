@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-- [Dicionário de termos](GLOSSARY.MD)
+- [Dicionário de termos](GLOSSARY.md)
 
 ### Levantamento de tecnologias
 
