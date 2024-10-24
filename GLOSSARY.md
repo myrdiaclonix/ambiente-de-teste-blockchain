@@ -12,7 +12,7 @@ Este documento contém a definição de termos estudados durante a pesquisa do p
 
 ### Execution Client
 * **Função**: O execution client é responsável por executar as transações e manter o estado da blockchain. Ele processa transações, cria novos blocos (baseado nas regras do Ethereum), e gerencia a Ethereum Virtual Machine (EVM), onde os contratos inteligentes são executados.
-* **Responsabilidades**:Validar e aplicar transações; manter o banco de dados da blockchain; executar contratos inteligentes.
+* **Responsabilidades**: Validar e aplicar transações; manter o banco de dados da blockchain; executar contratos inteligentes.
 
 ### Proof of Authority (PoA)
 * É um algoritmo de consenso utilizado em blockchains que é baseado na reputação de validadores em vez de um recurso computacional (como em Proof of Work) ou de quantidade de criptomoedas (como em Proof of Stake). No PoA, a identidade dos validadores é a parte mais importante e os validadores são selecionados com base em sua confiança e reputação.
